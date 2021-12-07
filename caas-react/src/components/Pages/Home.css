@@ -1,0 +1,39 @@
+h3 {
+    text-align: left;
+}
+
+.btn-outline-secondary {
+    color: #e2bb52;
+}
+
+.btn-outline-secondary:hover {
+    color: white;
+}
+
+.recents {
+    padding-right: 1em;
+    padding-left: 1em;
+    text-align: center;
+}
+
+.stats {
+    padding-right: 5em;
+    padding-left: 5em;
+    text-align: center;
+}
+
+.table {
+    --bs-table-bg: transparent;
+    --bs-table-accent-bg: transparent;
+    --bs-table-striped-color: #ffffff;
+    --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+    --bs-table-active-color: #f9f9f9;
+    --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+    --bs-table-hover-color: #ffffff;
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #ffffff;
+    vertical-align: top;
+    border-color: #dee2e6;
+}

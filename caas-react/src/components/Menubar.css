@@ -1,0 +1,15 @@
+img, svg {
+    margin: inherit;
+}
+
+.navbar {
+    padding: 0em;
+}
+
+.dropdown-menu {
+    right: 0;
+}
+
+.pages {
+    padding-bottom: .255em;
+}
